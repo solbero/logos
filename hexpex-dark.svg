@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="277.12814"
+   height="320"
+   viewBox="0 0 73.323486 84.666666"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter13"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix12" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic"
+         id="feColorMatrix13" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix16" />
+      <feColorMatrix
+         id="feColorMatrix17"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix18"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter15"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         type="hueRotate"
+         values="180"
+         result="color1"
+         id="feColorMatrix14" />
+      <feColorMatrix
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="fbSourceGraphic"
+         id="feColorMatrix15" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix19" />
+      <feColorMatrix
+         id="feColorMatrix20"
+         type="hueRotate"
+         values="180"
+         result="color1"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix21"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+         result="color2" />
+    </filter>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-48.004924)">
+    <path
+       id="path1"
+       style="color:#000000;fill:#ffffff;-inkscape-stroke:none;filter:url(#filter15);fill-opacity:1"
+       d="M 33.777464 9.8007927 L 32.277225 10.66612 L 5.2322517 26.281402 L 5.2322517 59.244316 L 33.777464 75.72662 L 62.324371 59.244316 L 62.324371 26.281402 L 33.777464 9.8007927 z M 33.777464 12.398469 L 60.074012 27.580029 L 60.074012 57.945266 L 33.777464 73.126826 L 7.482611 57.945266 L 7.482611 27.580029 L 33.402192 12.61533 L 33.777464 12.398469 z M 33.777464 14.130818 L 8.982427 28.447474 L 8.982427 57.079939 L 33.777464 71.396595 L 58.574196 57.079939 L 58.574196 28.447474 L 33.777464 14.130818 z M 33.777464 16.726376 L 56.32426 29.7461 L 56.32426 55.779195 L 33.777464 68.796801 L 11.232363 55.779195 L 11.232363 29.7461 L 33.777464 16.726376 z "
+       transform="matrix(1.220058,0,0,1.220058,43.45527,-9.8398353)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.3004px;letter-spacing:1.61398px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.83004;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter13)"
+       x="65.850327"
+       y="32.494881"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.3004px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';letter-spacing:1.61398px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.83004;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="65.850327"
+         y="32.494881"
+         dy="6.1002903">hex</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:18.3004px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';letter-spacing:1.61398px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.83004;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="65.850327"
+         y="56.209915"
+         id="tspan2">pex</tspan></text>
+  </g>
+</svg>

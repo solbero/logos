@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="269"
+   height="48"
+   viewBox="0 0 269 48"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.91668"
+     id="rect2"
+     x="48"
+     y="0"
+     width="221"
+     height="48" />
+  <rect
+     style="fill:#0d6efd;fill-opacity:1;stroke:none;stroke-width:0.969802"
+     id="rect1"
+     width="48"
+     height="48"
+     x="0"
+     y="1.1596679e-06" />
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';fill:#ffffff"
+     x="52.528"
+     y="34.007999"
+     id="text2"><tspan
+       id="tspan2"
+       x="52.528"
+       y="34.007999"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Light';fill:#404040;fill-opacity:1">Social Insecurity</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#0d6efd;fill-opacity:1;stroke:none"
+     x="7.5779991"
+     y="37.734001"
+     id="text1"><tspan
+       id="tspan1"
+       x="7.5779991"
+       y="37.734001"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:42px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3 Semi-Bold';fill:#ffffff;fill-opacity:1">SI</tspan></text>
+</svg>
